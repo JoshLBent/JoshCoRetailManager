@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRMDataManager", "JRMDataMa
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "JRMData", "JRMData\JRMData.sqlproj", "{B6762D1C-7A8F-47BB-BDE8-F40EB604EB97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRMDesktopUI", "JRMDesktopUI\JRMDesktopUI.csproj", "{D0385220-9431-460C-A822-7FD289B4D582}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{B6762D1C-7A8F-47BB-BDE8-F40EB604EB97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6762D1C-7A8F-47BB-BDE8-F40EB604EB97}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B6762D1C-7A8F-47BB-BDE8-F40EB604EB97}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D0385220-9431-460C-A822-7FD289B4D582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0385220-9431-460C-A822-7FD289B4D582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0385220-9431-460C-A822-7FD289B4D582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0385220-9431-460C-A822-7FD289B4D582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
